@@ -14,3 +14,29 @@
     box-sizing: border-box;
 }
 
+
+
+body{
+    background-color: var(--light-gray);
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    background-color: antiquewhite; 
+    padding: 20px 0;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
